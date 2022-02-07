@@ -1,0 +1,26 @@
+{
+  "parser": "@babel/eslint-parser",
+  "extends": ["eslint:recommended", "plugin:node/recommended", "prettier", "airbnb-base"],
+  "env": {
+    "mocha": true
+  },
+  "plugins": ["prettier", "node"],
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-unused-vars": 1,
+    "node/no-unsupported-features/es-syntax": 0,
+    "node/no-unpublished-import": ["off"],
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "bracketSpacing": true,
+        "jsxBracketSameLine": true,
+        "printWidth": 160,
+        "singleQuote": true
+      }
+    ]
+  }
+}

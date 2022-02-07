@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "label": "Device not returned within 24h",
+      "value": false
+    },
+    {
+      "id": "2",
+      "label": "Locker door left open",
+      "value": false
+    },
+    {
+      "id": "3",
+      "label": "Door improperly closed",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "id": "1000",
+      "device": "Phone",
+      "location": "Bridgelyn",
+      "username": "Mary J. Berkeley",
+      "email": "mberkeley@company.com",
+      "date": "2015-09-13",
+      "report": "Access Granted to chamber 1 on Locker 1002",
+      "chamber": "1",
+      "status": "Deposited",
+      "access_level": "Admin"
+    },
+    {
+      "id": "1015",
+      "device": "Laptop",
+      "username": "Jon Parker",
+      "location": "Bridgelyn",
+      "email": "jparker@company.com",
+      "date": "2019-02-09",
+      "status": "Retrieved",
+      "chamber": "4",
+      "report": "Access Granted to chamber 4 on Locker 1005",
+      "access_level": "Device Retrieval Only"
+    },
+    {
+      "id": "1023",
+      "device": "Phone",
+      "username": "Kaci Conkling",
+      "location": "Witchborough",
+      "date": "2017-05-13",
+      "chamber": "3",
+      "status": "Deposited",
+      "report": "Access Granted to chamber 3 on Locker 1009",
+      "email": "kconkling@company.com",
+      "access_level": "Admin"
+    },
+    {
+      "id": "1014",
+      "device": "Laptop",
+      "username": "Angela W. Buller",
+      "location": "Shadowbank",
+      "date": "2020-09-15",
+      "chamber": "5",
+      "status": "Retrieved",
+      "email": "abuller@company.com",
+      "report": "Access Granted to chamber 5 on Locker 1003",
+      "access_level": "Reporting Only"
+    },
+    {
+      "id": "1001",
+      "device": "Phone",
+      "username": "Calvin Porter",
+      "location": "Bridgelyn",
+      "date": "2016-05-20",
+      "chamber": "2",
+      "status": "Deposited",
+      "email": "cporter@company.com",
+      "report": "Access Granted to chamber 2 on Locker 1012",
+      "access_level": "Device Retrieval Only"
+    },
+    {
+      "id": "1011",
+      "device": "Tablet",
+      "username": "Margaret Davis",
+      "email": "mdavis@company.com",
+      "location": "Witchborough",
+      "chamber": "1",
+      "status": "Retrieved",
+      "date": "2018-02-16",
+      "report": "Access Granted to chamber 1 on Locker 1022",
+      "access_level": "Device Retrieval Only"
+    },
+    {
+      "id": "1023",
+      "device": "Laptop",
+      "username": "Pamila Everett",
+      "email": "peverett@company.com",
+      "date": "2018-02-19",
+      "chamber": "1",
+      "status": "Deposited",
+      "location": "Shadowbank",
+      "report": "Access Granted to chamber 1 on Locker 1016",
+      "access_level": "Device Retrieval Only"
+    },
+    {
+      "id": "1028",
+      "device": "Phone",
+      "username": "Irving Averie",
+      "location": "Bridgelyn",
+      "email": "iaverie@company.com",
+      "status": "Retrieved",
+      "chamber": "4",
+      "date": "2019-08-13",
+      "report": "Access Granted to chamber 4 on Locker 1005",
+      "access_level": "Standard Access"
+    },
+    {
+      "id": "1017",
+      "device": "Tablet",
+      "username": "Frank Kailey",
+      "email": "fkailey@company.com",
+      "chamber": "4",
+      "location": "Witchborough",
+      "status": "Deposited",
+      "date": "2018-11-21",
+      "report": "Access Granted to chamber 4 on Locker 1008",
+      "access_level": "Standard Access"
+    },
+    {
+      "id": "1022",
+      "device": "Tablet",
+      "username": "Avonlea July",
+      "email": "ajuly@company.com",
+      "location": "Shadowbank",
+      "chamber": "2",
+      "status": "Retrieved",
+      "date": "2015-07-07",
+      "report": "Access Granted to chamber 2 on Locker 1027",
+      "access_level": "Standard Access"
+    },
+    {
+      "id": "1029",
+      "device": "Phone",
+      "username": "Adelynn Jada",
+      "location": "Bridgelyn",
+      "date": "2018-11-07",
+      "status": "Deposited",
+      "chamber": "1",
+      "report": "Access Granted to Chamber 1 on Locker 1021",
+      "email": "ajada@company.com",
+      "access_level": "Standard Access"
+    },
+    {
+      "id": "1013",
+      "device": "Laptop",
+      "username": "Rona Lianne",
+      "email": "rlianne@company.com",
+      "chamber": "5",
+      "location": "Witchborough",
+      "status": "Deposited",
+      "report": "Access Granted to Chamber 5 on Locker 1012",
+      "date": "2017-03-11",
+      "access_level": "Standard Access"
+    },
+    {
+      "id": "1014",
+      "device": "Laptop",
+      "username": "sattar",
+      "email": "sattar@gmail.com",
+      "chamber": "5",
+      "location": "Witchborough",
+      "status": "Deposited",
+      "report": "Access Granted to Chamber 5 on Locker 1012",
+      "date": "2017-03-11",
+      "access_level": "admin"
+    },
+    {
+      "id": "1015",
+      "device": "Laptop",
+      "username": "Lisandra Stout",
+      "email": "nibh@hotmail.com",
+      "chamber": "5",
+      "location": "Witchborough",
+      "status": "Deposited",
+      "report": "Access Granted to Chamber 5 on Locker 1012",
+      "date": "2017-03-11",
+      "access_level": "admin"
+    }
+  ]
+}

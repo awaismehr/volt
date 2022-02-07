@@ -1,0 +1,24 @@
+.p-toast.p-toast-top-right {
+  z-index: 1000;
+  top: 7rem;
+}
+
+.d-none {
+  display: none;
+}
+
+table.p-datatable-table {
+  thead tr {
+    cursor: default;
+  }
+  tbody tr {
+    cursor: pointer;
+  }
+}
+.w-100 {
+  width: 100%;
+}
+
+.sm {
+  font-size: 12px;
+}
